@@ -1,0 +1,50 @@
+# Node modules
+/node_modules
+
+# Build output
+/build
+
+# Local environment variables
+.env
+
+# Logs
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# IDE and Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# MacOS Finder metadata
+.DS_Store
+
+# Windows thumbnails
+Thumbs.db
+
+# Linux trash folder
+.Trash-*
+
+# Package distribution
+*.tgz
+
+# Optional npm cache directory
+.npm
+
+# Yarn integrity file
+.yarn-integrity
+
+# Next.js build output
+.next
+
+# Gatsby files
+.cache/
+public/
+
+# TypeScript build output
+*.tsbuildinfo
