@@ -1,8 +1,7 @@
 # Node modules
 /node_modules
 
-# Build output
-/build
+
 
 # Local environment variables
 .env
@@ -44,7 +43,6 @@ Thumbs.db
 
 # Gatsby files
 .cache/
-public/
 
 # TypeScript build output
 *.tsbuildinfo

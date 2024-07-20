@@ -2,7 +2,7 @@
     "name": "astracollege",
     "version": "1.0.1",
     "private": true,
-    "homepage": "/auth/login",
+    "homepage": "http://hrisv2.com/",
     "scripts": {
         "start": "react-scripts start -o",
         "build": "react-scripts build",

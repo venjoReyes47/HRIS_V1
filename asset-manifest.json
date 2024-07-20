@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3357adca.chunk.css",
+    "main.js": "/static/js/main.6f1a8811.chunk.js",
+    "main.js.map": "/static/js/main.6f1a8811.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5cf3bc4a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5cf3bc4a.js.map",
+    "static/css/2.93e3fb29.chunk.css": "/static/css/2.93e3fb29.chunk.css",
+    "static/js/2.20f95ae4.chunk.js": "/static/js/2.20f95ae4.chunk.js",
+    "static/js/2.20f95ae4.chunk.js.map": "/static/js/2.20f95ae4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5356fc103d8e33e0ecc12dabfcb4bd90.js": "/precache-manifest.5356fc103d8e33e0ecc12dabfcb4bd90.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.93e3fb29.chunk.css.map": "/static/css/2.93e3fb29.chunk.css.map",
+    "static/css/main.3357adca.chunk.css.map": "/static/css/main.3357adca.chunk.css.map",
+    "static/media/flaticon.css": "/static/media/Flaticon2.eafcbac0.ttf",
+    "static/media/ki.css": "/static/media/Ki.a64552c2.woff",
+    "static/media/SchoolAttendanceLogo.png": "/static/media/SchoolAttendanceLogo.2ba5903a.png",
+    "static/media/all.min.css": "/static/media/fa-solid-900.ec763292.svg",
+    "static/media/faithColleges.png": "/static/media/faithColleges.7b6f5207.png",
+    "static/media/person.jpg": "/static/media/person.db98b6a4.jpg",
+    "static/media/socicon.css": "/static/media/socicon.a35b6574.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cf3bc4a.js",
+    "static/css/2.93e3fb29.chunk.css",
+    "static/js/2.20f95ae4.chunk.js",
+    "static/css/main.3357adca.chunk.css",
+    "static/js/main.6f1a8811.chunk.js"
+  ]
+}
